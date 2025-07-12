@@ -462,7 +462,7 @@ curl -X POST http://localhost:8765/orders/simulate \
 
 ## Observações
 
-- **Desafio Técnico NTT Data**: Projeto desenvolvido como parte do processo seletivo
+- **Desafio Técnico Bootcamp NTT DATA**: Projeto desenvolvido como parte do Bootcamp "NTT DATA - Java e IA para Iniciantes" na plataforma Digital Innovation One (DIO)
 - O projeto foi desenvolvido em inglês para manter a convenção internacional
 - A persistência é feita apenas no Product Service com H2 Database
 - O Order Service não possui persistência, apenas simula pedidos
