@@ -367,7 +367,7 @@ http://localhost:8761
 
 ## Tecnologias Utilizadas
 
-- Java 17
+- Java 24
 - Spring Boot 3.x
 - Spring Cloud Gateway
 - Spring Cloud Eureka
