@@ -81,7 +81,6 @@ src/main/java/developer/ezandro/order_service/
 │   └── ProductDTO.java
 ├── exception/
 │   ├── GlobalExceptionHandler.java
-│   ├── OrderNotFoundException.java
 │   ├── OrderSimulationException.java
 │   └── ProductNotFoundException.java
 ├── model/
